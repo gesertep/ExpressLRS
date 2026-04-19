@@ -1,3 +1,8 @@
+-DMY_BINDING_PHRASE="FFK_UA"
+-DRegulatory_Domain_FCC_915
+-DAUTO_WIFI_ON_INTERVAL="60"
+-DLOCK_ON_FIRST_CONNECTION
+
 ### The Legal Stuff ###
 
 # The use and operation of this type of device may require a license and some countries may forbid its use entirely.
